@@ -17,8 +17,8 @@ title: Bennett Luo
 email: alex_lb2010@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Don't panic, let's hack.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "posts" # the subpath of your site, e.g. /blog
+url: "https://bennettluo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bennettluo
 # twitter_username: jekyllrb
 
